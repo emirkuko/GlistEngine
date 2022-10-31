@@ -99,10 +99,10 @@ On Windows:
 >  git clone https://github.com/emirkuko/glistzbin-win64.git
 
 On MacOS:
->  git clone https://github.com/yourgithubusername/glistzbin-macos.git
+>  git clone https://github.com/emirkuko/glistzbin-macos.git
 
 On Linux:
->  git clone https://github.com/yourgithubusername/glistzbin-linux.git
+>  git clone https://github.com/emirkuko/glistzbin-linux.git
 
 
 6- Go one folder up
